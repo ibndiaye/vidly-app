@@ -1,0 +1,691 @@
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Vidly.dll.config
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Vidly.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Vidly.pdb
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\EntityFramework.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Owin.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.Helpers.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.Mvc.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.Optimization.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.Razor.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.WebPages.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\WebGrease.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.Helpers.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.Mvc.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.Optimization.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.Razor.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.WebPages.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\EntityFramework.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.dll
+C:\Users\Dell\Downloads\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.pdb
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Vidly.dll.config
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Vidly.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Vidly.pdb
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Antlr3.Runtime.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\EntityFramework.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\EntityFramework.SqlServer.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Google.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Web.Infrastructure.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Newtonsoft.Json.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Owin.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.Helpers.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.Mvc.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.Optimization.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.Razor.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.WebPages.Deployment.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.WebPages.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.WebPages.Razor.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\WebGrease.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.Helpers.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.Mvc.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.Optimization.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.Razor.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.WebPages.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.WebPages.Deployment.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.WebPages.Razor.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Antlr3.Runtime.pdb
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Newtonsoft.Json.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\EntityFramework.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\EntityFramework.SqlServer.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Google.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.csproj.AssemblyReference.cache
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.dll
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.pdb
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Vidly.dll.config
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Vidly.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Vidly.pdb
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\EntityFramework.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.Owin.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Owin.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\System.Web.Helpers.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\System.Web.Mvc.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\System.Web.Optimization.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\System.Web.Razor.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\System.Web.WebPages.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\WebGrease.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\EntityFramework.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\System.Web.Helpers.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\System.Web.Mvc.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\System.Web.Optimization.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\System.Web.Razor.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\System.Web.WebPages.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.Owin.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\obj\Debug\Vidly.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\obj\Debug\Vidly.dll
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\obj\Debug\Vidly.pdb
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.AddIdToMembershipType.resources
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\Dell\Downloads\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.AddIdToMembershipType.resources
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+\\TRUENAS\HomeN\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Vidly.dll.config
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Vidly.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Vidly.pdb
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Antlr3.Runtime.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\EntityFramework.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\EntityFramework.SqlServer.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Google.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Web.Infrastructure.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Newtonsoft.Json.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Owin.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.Helpers.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.Mvc.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.Optimization.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.Razor.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.WebPages.Deployment.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.WebPages.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.WebPages.Razor.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\WebGrease.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\EntityFramework.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\EntityFramework.SqlServer.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.Helpers.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.Mvc.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.Optimization.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.Razor.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.WebPages.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.WebPages.Deployment.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\System.Web.WebPages.Razor.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Antlr3.Runtime.pdb
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Newtonsoft.Json.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Google.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.csproj.AssemblyReference.cache
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.AddIdToMembershipType.resources
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.dll
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.pdb
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypeName.resources
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType1.resources
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.AddBirthdayToCsustomerDetails.resources
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.AddGenre.resources
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.AddGenre1.resources
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.AddDataAnnotionsToMovies.resources
+Z:\MVC\Ibrahima\vidly sol ex 1\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Vidly.dll.config
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Vidly.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Vidly.pdb
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Antlr3.Runtime.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.SqlServer.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Newtonsoft.Json.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Owin.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Helpers.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Mvc.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Optimization.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Razor.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\WebGrease.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.SqlServer.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Helpers.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Mvc.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Optimization.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Razor.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Antlr3.Runtime.pdb
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Newtonsoft.Json.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.AssemblyReference.cache
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddIdToMembershipType.resources
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypeName.resources
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType1.resources
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdayToCsustomerDetails.resources
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenre.resources
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenre1.resources
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddDataAnnotionsToMovies.resources
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.dll
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.pdb
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.RemoveReqFromMovieDateAded.resources
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.ChangeMovieGenreReq.resources
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.ChangeMovieGenreReq1.resources
+S:\MVC\Ibrahima\vidly\Vidly\bin\Vidly.dll.config
+S:\MVC\Ibrahima\vidly\Vidly\bin\Vidly.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\Vidly.pdb
+S:\MVC\Ibrahima\vidly\Vidly\bin\Antlr3.Runtime.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.SqlServer.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\Newtonsoft.Json.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\Owin.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Helpers.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Mvc.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Optimization.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Razor.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\WebGrease.dll
+S:\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.SqlServer.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Helpers.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Mvc.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Optimization.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Razor.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\Antlr3.Runtime.pdb
+S:\MVC\Ibrahima\vidly\Vidly\bin\Newtonsoft.Json.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+S:\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.AssemblyReference.cache
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddIdToMembershipType.resources
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypeName.resources
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType1.resources
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdayToCsustomerDetails.resources
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenre.resources
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenre1.resources
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddDataAnnotionsToMovies.resources
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.RemoveReqFromMovieDateAded.resources
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.ChangeMovieGenreReq.resources
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.ChangeMovieGenreReq1.resources
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.dll
+S:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.pdb
+Z:\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddAnnotationToMovieClass.resources
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Net.Http.Formatting.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Http.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Http.WebHost.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Net.Http.Formatting.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Http.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Http.WebHost.xml
+Z:\MVC\Ibrahima\vidly\Vidly\bin\AutoMapper.dll
+Z:\MVC\Ibrahima\vidly\Vidly\bin\AutoMapper.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Vidly.dll.config
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Vidly.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Vidly.pdb
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Antlr3.Runtime.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\AutoMapper.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.SqlServer.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Newtonsoft.Json.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Owin.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Net.Http.Formatting.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Helpers.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Http.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Http.WebHost.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Mvc.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Optimization.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Razor.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\WebGrease.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\AutoMapper.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.SqlServer.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Net.Http.Formatting.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Http.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Http.WebHost.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Helpers.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Mvc.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Optimization.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Razor.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Antlr3.Runtime.pdb
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Newtonsoft.Json.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.AssemblyReference.cache
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddIdToMembershipType.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypeName.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType1.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdayToCsustomerDetails.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenre.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenre1.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddDataAnnotionsToMovies.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.RemoveReqFromMovieDateAded.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.ChangeMovieGenreReq.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.ChangeMovieGenreReq1.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddAnnotationToMovieClass.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.pdb
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToAppUser.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToUser.resources
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Glimpse.Ado.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Glimpse.AspNet.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Glimpse.Core.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Glimpse.EF6.dll
+Z:\Coding\MVC\Ibrahima\vidly\Vidly\bin\Glimpse.Mvc5.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.AssemblyReference.cache
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddIdToMembershipType.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypeName.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType1.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdayToCsustomerDetails.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenre.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenre1.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddDataAnnotionsToMovies.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.RemoveReqFromMovieDateAded.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.ChangeMovieGenreReq.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.ChangeMovieGenreReq1.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddAnnotationToMovieClass.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToAppUser.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToUser.resources
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.pdb
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Vidly.dll.config
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Vidly.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Vidly.pdb
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Antlr3.Runtime.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\AutoMapper.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.SqlServer.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Glimpse.Ado.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Glimpse.AspNet.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Glimpse.Core.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Glimpse.EF6.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Glimpse.Mvc5.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Newtonsoft.Json.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Owin.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Net.Http.Formatting.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Helpers.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Http.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Http.WebHost.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Mvc.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Optimization.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Razor.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\WebGrease.dll
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\AutoMapper.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.SqlServer.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Net.Http.Formatting.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Http.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Http.WebHost.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Helpers.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Mvc.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Optimization.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Razor.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Antlr3.Runtime.pdb
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Newtonsoft.Json.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.AssemblyReference.cache
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddIdToMembershipType.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypeName.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType1.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdayToCsustomerDetails.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenre.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenre1.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddDataAnnotionsToMovies.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.RemoveReqFromMovieDateAded.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.ChangeMovieGenreReq.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.ChangeMovieGenreReq1.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddAnnotationToMovieClass.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToAppUser.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToUser.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.pdb
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddRental.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Vidly.dll.config
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Vidly.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Vidly.pdb
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Antlr3.Runtime.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\AutoMapper.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.SqlServer.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Glimpse.Ado.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Glimpse.AspNet.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Glimpse.Core.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Glimpse.EF6.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Glimpse.Mvc5.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Newtonsoft.Json.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Owin.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Net.Http.Formatting.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Helpers.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Http.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Http.WebHost.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Mvc.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Optimization.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Razor.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\WebGrease.dll
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\AutoMapper.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\EntityFramework.SqlServer.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Net.Http.Formatting.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Http.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Http.WebHost.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Helpers.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Mvc.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Optimization.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.Razor.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Antlr3.Runtime.pdb
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Newtonsoft.Json.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddRental.resources
+\\truenas\HomeN\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+Z:\Coding\C#\Mosh\MVC\Ibrahima\vidly\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailable.resources
